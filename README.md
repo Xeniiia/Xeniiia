@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hi there 👋
 
 - 🎓 I'm a student of CSU and study fundamental computer science
 - 🔎 I'm looking for a job
